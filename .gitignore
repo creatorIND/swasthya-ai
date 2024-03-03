@@ -1,0 +1,17 @@
+# Data
+/data/
+
+# Models
+/models/
+
+# Temporary files
+.ipynb_checkpoints/
+*.log
+__pycache__/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
