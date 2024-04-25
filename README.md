@@ -12,7 +12,7 @@ Steps to run the notebook locally on your PC:
 
  1. First, you need to have Anaconda (or Miniconda) Distribution installed. Check out this link for your specific OS: https://docs.anaconda.com/free/anaconda/install/
  2. Clone this repository. Either download it directly from the browser, or use `git` from  the command line.
- 3. Using *Anaconda Prompt*, create a new conda environment, activate it, and install Jupyter Lab using `pip install jupyterlab`. Download this [conda commands cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) for your reference.
+ 3. Using *Anaconda Prompt*, create a new conda environment, activate it, and install Jupyter Lab using `pip install jupyterlab`. Download this [conda commands cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf) for your reference.
  4. Now, simply enter `jupyter lab` in your terminal to open Jupyter Lab in the browser.
  5. From there, browse to the directory where you downloaded and extracted this repo. Make sure to also download the dataset and include it at the appropriate place. 
  6. Open the `pulmo-ensemble.ipynb` notebook, and run all the cells one by one.
